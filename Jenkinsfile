@@ -50,7 +50,7 @@ pipeline {
 
      causeString: 'Triggered on $comment',
 
-     token: "JSOTemplate",
+     token: "",
 
      printContributedVariables: true,
      printPostContent: true,
